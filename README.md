@@ -4,19 +4,19 @@ A scalable, privacy-compliant URL shortening service built using **Node.js**, **
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ⚡ **Fast Redirection** – Cache-first lookups via Redis for ultra-low latency
-- 📊 **Analytics Tracking** – Time-series event logging with privacy safeguards
-- 🔐 **Privacy-First** – GDPR/CCPA compliance with SHA-256 IP hashing & salt rotation
-- 📱 **Universal App Linking** – iOS/Android deep linking support
-- 📦 **Scalable Architecture** – Stateless backend, sharded DB, and optional auto-scaling
-- 🧩 **Custom Aliases** – User-defined short URLs (e.g., `sho.rt/your-brand`)
-- 🔁 **Post-install Redirection** – IP-based ephemeral mappings
+-  **Fast Redirection** – Cache-first lookups via Redis for ultra-low latency
+-  **Analytics Tracking** – Time-series event logging with privacy safeguards
+-  **Privacy-First** – GDPR/CCPA compliance with SHA-256 IP hashing & salt rotation
+-  **Universal App Linking** – iOS/Android deep linking support
+-  **Scalable Architecture** – Stateless backend, sharded DB, and optional auto-scaling
+-  **Custom Aliases** – User-defined short URLs (e.g., `sho.rt/your-brand`)
+-  **Post-install Redirection** – IP-based ephemeral mappings
 
 ---
 
-## 🧱 Tech Stack
+##  Tech Stack
 
 | Layer     | Tech                                |
 |-----------|-------------------------------------|
@@ -26,7 +26,7 @@ A scalable, privacy-compliant URL shortening service built using **Node.js**, **
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙ Setup Instructions
 
 ### 1. Clone the Repository
 
