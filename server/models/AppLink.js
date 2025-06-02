@@ -6,7 +6,7 @@ const AppLinkMetadataSchema = new mongoose.Schema({
   platform: { type: String, enum: ['ios', 'android'], required: true },
   domain: { type: String, required: true },
   uri_template: { type: String, required: true },
-  validation: { type: String } // e.g., AASA or assetlinks.json reference
+  validation: { type: String }
 }, {
   collection: 'app_link_metadata'
 });
